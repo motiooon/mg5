@@ -4,6 +4,7 @@
   , "private": true
   , "dependencies": {
       "express": "2.5.1"
-    , "jade": ">= 0.0.1"
+    , "swig": ">=0.11.2"
+    , "500px":">=0.3.1"
   }
 }
